@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damvo.github.io/finchfolio-site/sitemap.xml
